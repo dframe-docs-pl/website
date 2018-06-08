@@ -6,22 +6,20 @@
 
 .. div:: row
  .. div:: col-sm-6
-  ==========
-  Instalacja
-  ==========
   
-  Wymagania
-  
-   - PHP =< 7.0
-   - Moduł Rewrite (nginix/apache2)
-   - Composer
-  
-   Z poziomu konsoli uruchom polecenie
-  
-  .. code-block:: bash
-   $ composer create-project dframe/dframe-demo yourAppName 
-  
-  Zaincjalizuje to proces pobierania najnoszej wersji kodu która jest dostępna w serwisie github.com
+  Dframe
+  ======
+
+  **Dframe** to Framework PHP który powstał na potrzeby małych stron jednak z czasem rozrósł się na tyle by spełniał potrzeby nawet wymagających projektów. Stworzony do szybkiego tworzenia stron posiada wiele przydatnych modułów takich jak:
+
+  - obsługa zapytań bazy danych,
+  - tokeny CSRF,
+  - obsługa FileStorage,
+  - biblioteki do obsługi wysyłki maili.
+
+  Głowne założenie to szybkość budowania aplikacji. 
+  Projekt jest rozwijany przez grupę programistów oraz społecznośc GITHUB.
+  Dframe jest kompatybilny z php 7.x. 
  
  .. div:: col-sm-6
   |img/start.jpg|
