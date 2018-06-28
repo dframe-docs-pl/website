@@ -22,9 +22,9 @@
   Dframe jest kompatybilny z php 7.x. 
  
  .. div:: col-sm-6
-  |img/start.jpg|
+  |img/start.min.jpg|
 
-.. |img/start.jpg| router:: img/start.jpg
+.. |img/start.min.jpg| router:: img/start.min.jpg
  :publicWeb:
  :img:
  :width: 100%
