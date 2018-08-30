@@ -8,10 +8,10 @@
   **Config** - folder zawiera pliki konfiguracyjne w postaci 
   
   .. code-block:: php
-   return array(
+   return [
        'klucz' -> 'Wartość',
        'innyKlucz' => 'Inna Wartość'
-   );
+   ];
   W naszym przypadku znaduje się jeszcze **router.php** gdyż przykładowa aplikacja używa Dframe\Router oraz folder **view** z plikiem **smarty.php** bo w przykładzie użyliśmy silnik **S.M.A.R.T.Y** jednak do renderowania html można użyć dowolnego systemu np: **Twig, Mustache** ewenualnie czysty php
   
   **Controller** - kluczowym plikiem jest tutaj **Controller.php** Łączy on ze sobą Router i wymieniony wcześniej |baseClass|
