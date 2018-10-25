@@ -21,6 +21,7 @@
   - tokeny CSRF,
   - obsługa FileStorage,
   - biblioteki do obsługi wysyłki maili.
+  - MVC & HMVC
 
   Głowne założenie to szybkość budowania aplikacji. 
   Projekt jest rozwijany przez grupę programistów oraz społecznośc GITHUB.
