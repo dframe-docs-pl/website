@@ -17,17 +17,16 @@
 
   **Dframe** to Framework PHP do tworzenia aplikacji internetowych, serwisów API oraz mikroserwisów. Stworzony do szybkiego tworzenia stron posiada wiele przydatnych componentów takich jak:
 
-  - obsługa zapytań bazy danych,
-  - tokeny CSRF,
-  - obsługa FileStorage,
-  - biblioteki do obsługi wysyłki maili.
-  - MVC & .. `HMVC <https://dframeframework.com/pl/docs/dframe/master/guide/hmvc/overview>`_.
-  
-  
+  - obsługa zapytań `bazy danych <https://dframeframework.com/pl/docs/database/master/query>`_,
+  - `tokeny CSRF <https://dframeframework.com/pl/docs/dframe/master/token/overview>`_, 
+  - obsługa `FileStorage <https://dframeframework.com/pl/docs/fileStorage/master/configuration>`_,
+  - biblioteki do obsługi `wysyłki maili <https://dframeframework.com/pl/docs/myMail/master/configuration>`_,
+  - MVC & `HMVC <https://dframeframework.com/pl/docs/dframe/master/guide/hmvc/overview>`_
+
 
   Głowne założenie to szybkość budowania aplikacji. 
   Projekt jest rozwijany przez grupę programistów oraz społecznośc GITHUB.
-  Dframe jest kompatybilny z php 7.x. 
+  Dframe jest kompatybilny z `PHP 7.x. <https://www.php.net/>`_
  
  .. div:: col-sm-6
   |img/start.min.jpg|
