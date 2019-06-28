@@ -21,7 +21,9 @@
   - tokeny CSRF,
   - obsługa FileStorage,
   - biblioteki do obsługi wysyłki maili.
-  - MVC & HMVC
+  - MVC & .. `HMVC <https://dframeframework.com/pl/docs/dframe/master/guide/hmvc/overview>`_.
+  
+  
 
   Głowne założenie to szybkość budowania aplikacji. 
   Projekt jest rozwijany przez grupę programistów oraz społecznośc GITHUB.
