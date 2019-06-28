@@ -15,7 +15,7 @@
   Dframe
   ======
 
-  **Dframe** to Framework PHP który powstał na potrzeby małych stron jednak z czasem rozrósł się na tyle by spełniał potrzeby nawet wymagających projektów. Stworzony do szybkiego tworzenia stron posiada wiele przydatnych modułów takich jak:
+  **Dframe** to Framework PHP do tworzenia aplikacji internetowych, serwisów API oraz mikroserwisów. Stworzony do szybkiego tworzenia stron posiada wiele przydatnych componentów takich jak:
 
   - obsługa zapytań bazy danych,
   - tokeny CSRF,
