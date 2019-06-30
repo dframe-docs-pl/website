@@ -15,7 +15,7 @@
   Dframe
   ======
 
-  **Dframe** to Framework PHP do tworzenia aplikacji internetowych, serwisów `API <https://dframeframework.com/pl/docs/dframe/master/guide/basic-rest-api>`_ oraz mikroserwisów. Stworzony do szybkiego tworzenia stron posiada wiele przydatnych componentów takich jak:
+  **Dframe** to Framework PHP do tworzenia aplikacji internetowych, serwisów `API <https://dframeframework.com/pl/docs/dframe/master/guide/basic-rest-api>`_ oraz mikroserwisów. Stworzony do szybkiego tworzenia stron posiada wiele przydatnych komponentów takich jak:
 
   - obsługa zapytań `bazy danych <https://dframeframework.com/pl/docs/database/master/query>`_,
   - `tokeny CSRF <https://dframeframework.com/pl/docs/dframe/master/token/overview>`_, 
