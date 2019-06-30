@@ -1,7 +1,7 @@
-.. title:: Dframe Framework - Smart and Fast PHP framework
+.. title:: Dframe Framework - zbuduj swoją aplikacje internetową, API albo mikroserwis w prosty i szybki sposób.
 
 .. meta::
-    :description: Dframe to Framework PHP który powstał na potrzeby małych stron jednak z czasem rozrósł się na tyle by spełniał potrzeby nawet wymagających projektów.
+    :description: Dframe to Framework PHP do tworzenia aplikacji internetowych, API albo mikroserwiów w prosty i szybki sposób.
     :keywords: Dframe, framework, smarty, php, mvc, php7, project, dframe documentation
     
 
