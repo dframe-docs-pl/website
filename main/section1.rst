@@ -17,7 +17,7 @@
 
   **Dframe** to Framework PHP do tworzenia aplikacji internetowych, serwisów `API <https://dframeframework.com/pl/docs/dframe/master/guide/basic-rest-api>`_ oraz mikroserwisów. Stworzony do szybkiego tworzenia stron posiada wiele przydatnych komponentów takich jak:
 
-  - obsługa zapytań `bazy danych <https://dframeframework.com/pl/docs/database/master/query>`_,
+  - obsługa zapytań `bazy danych PDO <https://dframeframework.com/pl/docs/database/master/query>`_,
   - `tokeny CSRF <https://dframeframework.com/pl/docs/dframe/master/token/overview>`_, 
   - obsługa `FileStorage <https://dframeframework.com/pl/docs/fileStorage/master/configuration>`_,
   - biblioteki do obsługi `wysyłki maili <https://dframeframework.com/pl/docs/myMail/master/configuration>`_,
